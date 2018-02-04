@@ -17,22 +17,22 @@ public class changeScene : MonoBehaviour {
 	}
 
 	public void changeToScene() {
-		SceneManager.LoadScene ("Main Scene", LoadSceneMode.Additive);
+		SceneManager.LoadScene ("Main Scene", LoadSceneMode.Single);
 	}
 
 	public void changeToSettingsScene() {
-		SceneManager.LoadScene ("Settings Scene", LoadSceneMode.Additive);
+		SceneManager.LoadScene ("Settings Scene", LoadSceneMode.Single);
 	}
 
 	public void changeToFlowerPickerScene() {
-		SceneManager.LoadScene ("Flower Picker Scene", LoadSceneMode.Additive);
+		SceneManager.LoadScene ("Flower Picker Scene", LoadSceneMode.Single);
 	}
 
 	public void changeToTeacupPickerScene() {
-		SceneManager.LoadScene ("Teacup Picker Scene", LoadSceneMode.Additive);
+		SceneManager.LoadScene ("Teacup Picker Scene", LoadSceneMode.Single);
 	}
 
 	public void changeToTitleScene() {
-		SceneManager.LoadScene ("Title Scene", LoadSceneMode.Additive);
+		SceneManager.LoadScene ("Title Scene", LoadSceneMode.Single);
 	}
 }
