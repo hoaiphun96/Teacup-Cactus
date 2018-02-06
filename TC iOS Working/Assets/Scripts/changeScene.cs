@@ -35,4 +35,8 @@ public class changeScene : MonoBehaviour {
 	public void changeToTitleScene() {
 		SceneManager.LoadScene ("Title Scene", LoadSceneMode.Single);
 	}
+
+	public void changeToAboutScene() {
+		SceneManager.LoadScene ("About Scene", LoadSceneMode.Single);
+	}
 }
