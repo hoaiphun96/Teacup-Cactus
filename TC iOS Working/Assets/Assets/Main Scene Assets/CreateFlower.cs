@@ -12,6 +12,31 @@ public class CreateFlower : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
+	}
+	
+	// Update is called once per frame
+	void Update () {
+		
+	}
+
+	public void Change(GameObject newPetal, Color newColor, int newPetalCount) {
+		petal = newPetal;
+		color = newColor;
+		petalCount = newPetalCount;
+		DestroyChildren ();
+		//Reset scale
+		gameObject.transform.localScale = Vector3.one;
+		Render ();
+	}
+
+	void DestroyChildren() {
+		foreach (Transform child in transform) {
+			Destroy (child.gameObject);
+		}
+	}
+
+	void Render() {
+
 		for (int i = 0; i < petalCount; i++) 
 		{
 			GameObject child = Instantiate(petal) as GameObject;
@@ -35,10 +60,5 @@ public class CreateFlower : MonoBehaviour {
 		dotChildSpriteRenderer.color = Color.white;
 
 		gameObject.transform.localScale = Vector3.one * 0.3f;
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
 	}
 }
