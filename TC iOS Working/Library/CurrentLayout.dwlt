@@ -13,14 +13,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1
     y: 51
     width: 950
     height: 772
+=======
+    x: 105
+    y: 113
+    width: 2216
+    height: 1147
+>>>>>>> parent of 6e4f9f8... Plant Crossbreeding and Inventory Update 1
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 492}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -41,8 +48,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 950
     height: 772
+=======
+    width: 2216
+    height: 1147
+>>>>>>> parent of 6e4f9f8... Plant Crossbreeding and Inventory Update 1
   m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
@@ -61,11 +73,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 950
+=======
+    width: 2216
+>>>>>>> parent of 6e4f9f8... Plant Crossbreeding and Inventory Update 1
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
-  m_LastLoadedLayoutName: 
+  m_LastLoadedLayoutName: 2 by 3
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -86,12 +102,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
     width: 950
     height: 722
   m_MinSize: {x: 917, y: 442}
   m_MaxSize: {x: 22012, y: 10021}
   vertical: 0
   controlID: 102
+=======
+    width: 2216
+    height: 1097
+  m_MinSize: {x: 911, y: 442}
+  m_MaxSize: {x: 22006, y: 10021}
+  vertical: 0
+  controlID: 196
+>>>>>>> parent of 6e4f9f8... Plant Crossbreeding and Inventory Update 1
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -107,8 +132,13 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 752
     width: 950
+=======
+    y: 1127
+    width: 2216
+>>>>>>> parent of 6e4f9f8... Plant Crossbreeding and Inventory Update 1
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -130,12 +160,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 235
     height: 722
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
   controlID: 81
+=======
+    width: 999
+    height: 1097
+  m_MinSize: {x: 202, y: 442}
+  m_MaxSize: {x: 4002, y: 8042}
+  vertical: 1
+  controlID: 197
+>>>>>>> parent of 6e4f9f8... Plant Crossbreeding and Inventory Update 1
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -150,12 +189,21 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 235
     y: 0
     width: 204
     height: 722
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
+=======
+    x: 999
+    y: 0
+    width: 355
+    height: 1097
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> parent of 6e4f9f8... Plant Crossbreeding and Inventory Update 1
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 12}
@@ -175,10 +223,17 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 439
     y: 0
     width: 234
     height: 722
+=======
+    x: 1354
+    y: 0
+    width: 361
+    height: 1097
+>>>>>>> parent of 6e4f9f8... Plant Crossbreeding and Inventory Update 1
   m_MinSize: {x: 234, y: 271}
   m_MaxSize: {x: 10004, y: 10021}
   m_ActualView: {fileID: 14}
@@ -200,12 +255,21 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 673
     y: 0
     width: 277
     height: 722
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
+=======
+    x: 1715
+    y: 0
+    width: 501
+    height: 1097
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> parent of 6e4f9f8... Plant Crossbreeding and Inventory Update 1
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -227,10 +291,17 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 235
     height: 238
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
+=======
+    width: 999
+    height: 287
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> parent of 6e4f9f8... Plant Crossbreeding and Inventory Update 1
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -251,11 +322,19 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 238
     width: 235
     height: 484
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
+=======
+    y: 287
+    width: 999
+    height: 810
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> parent of 6e4f9f8... Plant Crossbreeding and Inventory Update 1
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -283,6 +362,7 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 238
     y: 100
     width: 200
@@ -293,6 +373,18 @@ MonoBehaviour:
     m_SelectedIDs: f6070000
     m_LastClickedID: 0
     m_ExpandedIDs: 86fbffff00000000
+=======
+    x: 1001
+    y: 19
+    width: 351
+    height: 1076
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_TreeViewState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: f63d0000
+    m_LastClickedID: 15862
+    m_ExpandedIDs: a646fcffda51fcff9a56fcff5462fcffc866fcff5069fcff2cc6fcff9c29ffffba2fffffea70ffff6682ffff24f6ffff00000000042c0000fc3500002c360000a83600007e37000092370000423800000e3b0000603b00004a3d00007a3d0000
+>>>>>>> parent of 6e4f9f8... Plant Crossbreeding and Inventory Update 1
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -337,10 +429,17 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 676
     y: 100
     width: 275
     height: 701
+=======
+    x: 1717
+    y: 19
+    width: 499
+    height: 1076
+>>>>>>> parent of 6e4f9f8... Plant Crossbreeding and Inventory Update 1
   m_PersistentViewDataDictionary: {fileID: 0}
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
@@ -371,10 +470,17 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 442
     y: 100
     width: 230
     height: 701
+=======
+    x: 1356
+    y: 19
+    width: 357
+    height: 1076
+>>>>>>> parent of 6e4f9f8... Plant Crossbreeding and Inventory Update 1
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -388,18 +494,28 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
+<<<<<<< HEAD
     - Assets/James Temp
+=======
+    - Assets/Scenes
+>>>>>>> parent of 6e4f9f8... Plant Crossbreeding and Inventory Update 1
   m_ViewMode: 0
   m_StartGridSize: 64
-  m_LastFolders: []
+  m_LastFolders:
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Popeh\Documents\GitHub\Teacup-Cactus\TC iOS Working
+  m_LastProjectPath: /Users/macuser/Downloads/Teacup-Cactus--759c390db8b9890bf09a14670a9f3de0595ef5fc/TC
+    iOS
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: b82a0000
     m_LastClickedID: 10936
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000a227000002280000e8280000
+=======
+    m_ExpandedIDs: 00000000b82a0000f62a000000ca9a3bffffff7f
+>>>>>>> parent of 6e4f9f8... Plant Crossbreeding and Inventory Update 1
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -427,21 +543,25 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000a2270000be270000022800001428000016280000
+=======
+    m_ExpandedIDs: 00000000b82a0000f62a0000fc2a0000042b0000563500005c35000062350000e035000000ca9a3bffffff7f
+>>>>>>> parent of 6e4f9f8... Plant Crossbreeding and Inventory Update 1
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Settings Scene
+      m_OriginalName: Settings Scene
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 10970
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 8}
     m_SearchString: 
@@ -504,10 +624,17 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1
     y: 338
     width: 233
     height: 463
+=======
+    x: 105
+    y: 449
+    width: 997
+    height: 789
+>>>>>>> parent of 6e4f9f8... Plant Crossbreeding and Inventory Update 1
   m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
@@ -517,10 +644,17 @@ MonoBehaviour:
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
+<<<<<<< HEAD
     m_HBaseRangeMin: -116.5
     m_HBaseRangeMax: 116.5
     m_VBaseRangeMin: -186.4
     m_VBaseRangeMax: 186.4
+=======
+    m_HBaseRangeMin: -108.5625
+    m_HBaseRangeMax: 108.5625
+    m_VBaseRangeMin: -193
+    m_VBaseRangeMax: 193
+>>>>>>> parent of 6e4f9f8... Plant Crossbreeding and Inventory Update 1
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -537,25 +671,43 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
+<<<<<<< HEAD
       width: 233
       height: 446
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 116.5, y: 223}
+=======
+      width: 997
+      height: 772
+    m_Scale: {x: 2, y: 2}
+    m_Translation: {x: 498.5, y: 386}
+>>>>>>> parent of 6e4f9f8... Plant Crossbreeding and Inventory Update 1
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
       x: -116.5
       y: -223
       width: 233
       height: 446
+=======
+      x: -249.25
+      y: -193
+      width: 498.5
+      height: 386
+>>>>>>> parent of 6e4f9f8... Plant Crossbreeding and Inventory Update 1
     m_MinimalGUI: 1
-  m_defaultScale: 1
+  m_defaultScale: 2
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
+<<<<<<< HEAD
   m_LastWindowPixelSize: {x: 233, y: 463}
+=======
+  m_LastWindowPixelSize: {x: 1994, y: 1578}
+>>>>>>> parent of 6e4f9f8... Plant Crossbreeding and Inventory Update 1
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -581,10 +733,17 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1
     y: 100
     width: 233
     height: 217
+=======
+    x: 105
+    y: 162
+    width: 997
+    height: 266
+>>>>>>> parent of 6e4f9f8... Plant Crossbreeding and Inventory Update 1
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
   lastFramingTime: 0
