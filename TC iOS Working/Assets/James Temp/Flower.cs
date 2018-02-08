@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Flower{
+public class FlowerCreator{
     [SerializeField]
     public static List<GameObject> PetalTypes;
 
