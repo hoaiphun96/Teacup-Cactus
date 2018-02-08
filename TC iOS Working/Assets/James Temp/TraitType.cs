@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
 
 class TraitType
 {
@@ -38,7 +39,7 @@ class TraitType
         if (!this.IsValid(mother) | !this.IsValid(father))
             throw new System.Exception("Invalid Trait String!");
 
-        Random rnd = new Random(Guid.NewGuid().GetHashCode());
+        System.Random rnd = new System.Random(DateTime.Now.Ticks.GetHashCode());
         Mutation mutation = getMutation(mother, father);
         if (mutation == null)
         {
@@ -56,7 +57,7 @@ class TraitType
 
     public string Scavenge()
     {
-        Random rnd = new Random(Guid.NewGuid().GetHashCode());
+        System.Random rnd = new System.Random(DateTime.Now.Ticks.GetHashCode());
         int index = rnd.Next(0, scavengeable.Count);
         return scavengeable[index];
     }

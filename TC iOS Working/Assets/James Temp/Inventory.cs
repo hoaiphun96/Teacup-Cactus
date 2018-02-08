@@ -2,19 +2,15 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Inventory : MonoBehaviour {
+public class Inventory{
+
     private FlowerDatabase data;
     private List<Flower> flowers;
 
     // Use this for initialization
-    void Start () {
+    public Inventory() {
         data = new TeacupCactusDatabase();
         flowers = new List<Flower>();
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
 	}
 
     public class TeacupCactusDatabase : FlowerDatabase
@@ -30,21 +26,36 @@ public class Inventory : MonoBehaviour {
         }
     }
 
+    public Flower Breed(Flower mother, Flower father)
+    {
+        return new Flower(mother, father, data);
+    }
+
+    public Flower Scavenge()
+    {
+        return new Flower(data.Scavenge(),data);
+    }
+
+    public Flower get(int index)
+    {
+        return flowers[index];
+    }
+
     /*
     Methods used for interacting with the flowers List
     */
 
-    public void RemoveAt(int index)
+    public void RemoveFlowerAt(int index)
     {
         flowers.RemoveAt(index);
     }
 
-    public Flower Get()
+    public Flower GetFlower(int index)
     {
-
+        return flowers[index];
     }
 
-    public void Add(Flower flower)
+    public void AddFlower(Flower flower)
     {
         flowers.Add(flower);
     }

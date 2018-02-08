@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
 
 /*
   The mutation class represents possible mutations that can occur in the plant.
@@ -48,7 +49,7 @@ class Mutation
 
     public static int randomChance(int[] chances)
     {
-        Random rnd = new Random(Guid.NewGuid().GetHashCode());
+        System.Random rnd = new System.Random(DateTime.Now.Ticks.GetHashCode());
         int perCent = rnd.Next(0, 100);
 
         int temp = 0;
