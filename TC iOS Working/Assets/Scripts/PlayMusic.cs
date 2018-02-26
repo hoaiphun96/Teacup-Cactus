@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayMusic : MonoBehaviour {
-	private static PlayMusic instance = null;
+	private static PlayMusic instance;
 	public static PlayMusic Instance {
 		get { return instance; }
 	}

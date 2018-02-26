@@ -1,0 +1,22 @@
+an  Android Plugin for Unity3d that will help you access Sensor features on Android devices with in unity3d.<br><br>
+
+This plugin will speeds up your work and saves a lot of time compare on creating your own plugin which requires learning, researching, coding and testing on how to make things work.<br><br>
+
+<STRONG>List of Features:</STRONG><br><br>
+
+1. Step Counter <STRONG>(Pedometer)</STRONG><br>
+2. Shake Detector<br><br>
+
+<STRONG>and more possible features to be added in the future</STRONG><br><br>
+
+<STRONG>Note: Does not extend UnityPlayerActivity</STRONG><br><br>
+
+<STRONG>For more Information:</STRONG><br>
+
+<p><a href="http://www.gigadrillgames.com/2015/08/09/android-sensor-for-unity3d/">Details |</a>
+<a href="http://www.gigadrillgames.com/2015/08/09/android-sensor-tutorials/"> Tutorials |</a>
+<a href="http://www.gigadrillgames.com/2015/08/09/android-sensor-faq-frequently-asked-questions/"> FAQ</a><br><br>
+
+<STRONG>For questions or suggestions or any feedback just contact us by email</STRONG> <br>
+
+<p><a href="mailto:gigadrillgames@gmail.com">gigadrillgames@gmail.com</a><br>

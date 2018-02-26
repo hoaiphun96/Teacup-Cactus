@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.gigadrillgames.androidsensor" android:versionName="1.0.0" android:versionCode="1">    
+  <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="22" />
+  <uses-feature android:name="android.hardware.sensor.stepcounter" android:required="false"/>
+  <uses-feature android:name="android.hardware.sensor.stepdetector" android:required="false"/>
+  <uses-feature android:name="android.hardware.sensor.accelerometer" android:required="true" />
+
+  <application>
+    <service android:name="com.gigadrillgames.androidsensor.pedometer.PedometerService"
+    	android:process=":aup_sensor_process"
+        android:enabled="true"
+        android:exported="true" >
+    </service>
+   </application>
+</manifest>

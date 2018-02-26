@@ -1,0 +1,6 @@
+Features
+
+1. Step Counter also Known as Pedometer
+2. Shake Detector 
+
+And more possible features to be added in the future :)

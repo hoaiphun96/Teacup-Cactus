@@ -29,7 +29,7 @@ public class changeScene : MonoBehaviour {
 	}
 
 	public void changeToTeacupPickerScene() {
-		SceneManager.LoadScene ("Teacup Picker Scene", LoadSceneMode.Single);
+		SceneManager.LoadScene ("Teacup Picker", LoadSceneMode.Single);
 	}
 
 	public void changeToTitleScene() {

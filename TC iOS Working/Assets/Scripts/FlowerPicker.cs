@@ -67,14 +67,17 @@ public class FlowerPicker : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		FlowersInventory = new List<Flower> (3);
+		
+		FlowersInventory = new List<Flower> ();
 		FlowersInventory.Add (new Flower (PetalTypes[0], new Color(.3F,.3F,.95F, 1F), 3));
 		FlowersInventory.Add (new Flower (PetalTypes[1], new Color(.95F,.3F,.3F, 1F), 4));
 		FlowersInventory.Add (new Flower (PetalTypes[2], Color.yellow, 6));
 
 		FlowersInventory.Add (new Flower (PetalTypes[0], new Color(.95F,.5F,.95F, 1F), 8));
 		FlowersInventory.Add (new Flower (PetalTypes[1], new Color(.95F, .3F, .3F, 1F), 5));
-		FlowersInventory.Add (new Flower (PetalTypes[2], Color.yellow, 2));
+		FlowersInventory.Add (new Flower (PetalTypes[2], Color.yellow, 2)); 
+
+
 	}
 	
 	// Update is called once per frame
