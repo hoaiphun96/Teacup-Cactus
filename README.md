@@ -21,7 +21,7 @@ Teacup Cactus allows the users to
 <img src="https://user-images.githubusercontent.com/26151559/37426105-7738692e-2793-11e8-855d-3fca56a38146.png" width="200" height="360"> <img src="https://user-images.githubusercontent.com/26151559/37426096-7664beb2-2793-11e8-914b-eae4c44c3254.png" width="200" height="360"> <img src="https://user-images.githubusercontent.com/26151559/37426102-76eb1a48-2793-11e8-8fb0-743af8adba23.png" width="200" height="360">  <img src="https://user-images.githubusercontent.com/26151559/37426103-77086e7c-2793-11e8-9538-debf1c929691.png" width="200" height="360"> 
 
 ### Crossbreeding scene
-<img src="https://user-images.githubusercontent.com/26151559/37426101-76d5de76-2793-11e8-9e36-cc514cc96b4e.png" width="200" height="360"> 
+<img src="https://user-images.githubusercontent.com/26151559/37426101-76d5de76-2793-11e8-9e36-cc514cc96b4e.png" width="200" height="360"> <img src="https://user-images.githubusercontent.com/26151559/37426100-76bf7f64-2793-11e8-91bf-f8741b725cdd.png" width="200" height="360"> 
 
 ### Challenge scene
 <img src="https://user-images.githubusercontent.com/26151559/37426104-77213056-2793-11e8-8965-7bf6c0894f37.png" width="200" height="360"> 
