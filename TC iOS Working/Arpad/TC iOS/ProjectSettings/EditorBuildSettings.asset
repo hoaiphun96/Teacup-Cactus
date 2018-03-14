@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title Scene.unity
+    guid: da3d6ee3d79ae42889969c44ddf24075
+  - enabled: 1
+    path: Assets/Scenes/Main Scene.unity
+    guid: c6c9dfebc3c7f4173b913bcdf9ae4685
+  - enabled: 1
+    path: Assets/Scenes/Settings Scene.unity
+    guid: 419b0c120b6584f969a908ec021dd77e
+  - enabled: 0
+    path: 
+    guid: efa697dc1d892465fb9c5570134362f0
+  - enabled: 0
+    path: 
+    guid: 38d907cc989ff48fb8c0a7d6321cd16f
+  - enabled: 1
+    path: Assets/Scenes/About Scene.unity
+    guid: 214ae080641b6ec4db85b1758bddd808
+  - enabled: 0
+    path: 
+    guid: f06e9e06d7c71485f8f637024a40e699
+  - enabled: 1
+    path: Assets/Scenes/Seed Scene.unity
+    guid: 7863d98c3f4931244aa5dd77efddddd2
+  - enabled: 1
+    path: Assets/Scenes/Statistics Scene.unity
+    guid: 3210e57ecea1b4d71bae1fd4b932b58c
+  - enabled: 1
+    path: Assets/Scenes/Debug Scene.unity
+    guid: 0b23bab36671b4d45a6e13d416e26f5a
+  - enabled: 1
+    path: Assets/Scenes/Challenge Scene.unity
+    guid: 2bafdf652644e4a42b1df325f8150fda

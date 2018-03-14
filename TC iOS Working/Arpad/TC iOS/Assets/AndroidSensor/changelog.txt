@@ -1,0 +1,41 @@
+Version 1.0.1
+12/23/2015
+
+1. added reset shake count
+2. added check if step detector is available or not on pedometer using utilsPlugin
+
+
+Version 1.2
+09/02/2016
+
+1. added Sensor Enum Sensor Delay choice for Pedometer
+1. added Sensor Enum Sensor Delay choice for Shake detector
+
+version 1.3
+02/04/2017
+
+1. change the plugin structure this will make our plugin minimize the conflict on 
+other Android Plugins
+
+version 1.4
+04/08/2017
+
+1. Added Pedometer Service it will still count the steps now even you close the unity3d application
+as long as you start the service before your quit or close the app.
+2. Added Saving of step data 
+3 Added lots of Method helper for querying the save Step data
+
+
+version 1.5
+
+1. pedometer service will run on boot
+2. step data will not reset when restart device or boot
+3. added more helper methods
+4. remove not  needed methods
+5. added pedometer demo2
+
+version 1.6
+
+08/26/2017
+
+1. update to unity3d 2017
