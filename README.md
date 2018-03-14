@@ -26,6 +26,9 @@ Teacup Cactus allows the users to
 ### Challenge scene
 <img src="https://user-images.githubusercontent.com/26151559/37426104-77213056-2793-11e8-8965-7bf6c0894f37.png" width="200" height="360"> 
 
+### Statistics scene
+<img src="https://user-images.githubusercontent.com/26151559/37427005-022b22d6-2796-11e8-9e89-2d6ce40fb410.png" width="200" height="360"> 
+
 ### Settings scene
 <img src="https://user-images.githubusercontent.com/26151559/37426107-776acbf8-2793-11e8-9a7d-906bd8cf7710.png" width="200" height="360"> 
 
